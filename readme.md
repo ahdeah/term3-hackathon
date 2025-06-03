@@ -75,7 +75,7 @@ Before moving to development, ensure you have:
 
 - [ ] **Clear business thesis** - everyone understands what you're building
 - [ ] **Defined main benefit** - you know why users will want this
-- [ ] **2+ user stories** - you know what features to build
+- [ ] **1-2 user stories** - you know what features to build
 - [ ] **Realistic scope** - your features fit in ~18 hours of development
 - [ ] **Both teammates agree** - you're aligned on the vision
 
@@ -167,6 +167,7 @@ Ask yourself: *"What can our team realistically build and polish in 18 hours?"*
 ### 🏁 **Days 1-2: Planning & Setup**
 - **📚 FIRST: Read the Git & GitHub Collaboration Guide and LLM Usage Guidelines** before touching any code or setting up VS Code!
 - **Complete App Development Process Steps 3-5** (see detailed section below)
+- Complete a basic wireframe
 - Set up your shared GitHub repository following the collaboration guide
 - Create your database schema based on your planning
 - Set up basic project structure
